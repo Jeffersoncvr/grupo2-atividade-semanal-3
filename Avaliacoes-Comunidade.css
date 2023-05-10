@@ -1,0 +1,90 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#Avaliacoes{
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+    width: 100vw;
+}
+.Conteudo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:5rem;
+    width: 100vw;
+}
+.Pontos{
+    font-family: 'Inter';
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+}
+.Pontos img{
+    margin-right: .4rem;
+}
+.Membros{
+    font-family: 'Inter';
+    display: flex;
+    align-items: center;
+    color: #5D5B70;
+    font-weight: 600;
+}
+.P-Destaque{
+    margin-left: .0rem;
+    margin-right: .4rem;
+    color: #217BF4;
+    font-weight: 500;
+}
+.Quadro-conteudo{
+    font-family: 'Inter';
+    height: 20rem;
+    align-items: center;
+    margin: 1rem;
+    margin-right: 8rem;
+}
+.Comentario-quadro p:nth-child(1){
+    padding: 1.5rem 0rem 1.5rem;
+    color: #8C8C8C;
+}
+.Membros p:nth-child(2){
+    padding-right: .4rem;
+}
+.Membros img{
+    margin-left: -.9rem;
+}
+#Descubra{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Inter';
+    height: 23rem;
+    margin-right: 0px;
+}
+#Descubra h1{
+    font-weight: 700;
+    padding-top: .5rem;
+    color: #0A093D;
+    font-style: normal;
+    font-size: 1.4rem;
+}
+#Descubra p:nth-child(4){
+    padding-top: 1rem;
+    color: #656464;
+    padding-bottom: 2.5rem;
+}
+.Botao{
+    font-family: 'Inter';
+    font-weight: 500;
+    width: 8rem;
+    height: 3rem;
+    border-radius: .8rem;
+    padding: 1rem;
+    background-color: #217BF4;
+    border: 0px;
+    color:#FFFFFF;
+}
+.Botao p{
+    color: white;
+}
+
