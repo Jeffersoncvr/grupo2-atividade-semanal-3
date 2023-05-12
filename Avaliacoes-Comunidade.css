@@ -87,4 +87,66 @@
 .Botao p{
     color: white;
 }
-
+#Comunidade{
+    height: 100vh;
+}
+#Conteudo{
+    font-family: 'Inter';
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.Colunas{
+    display: flex;
+    flex-direction: column;
+}
+.conteudo-colunas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 4rem;
+    width: 25rem;
+    height: 20rem;
+}
+.Grupo-colunas{
+    margin-top: 3rem;
+    width: 100vw;
+    height: 60vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.Colunas img{
+    height: 4rem;
+    padding-right: 1rem;
+}
+.conteudo-colunas h4{
+    color: #2F2C4A;
+    font-weight: 600;
+}
+.conteudo-colunas p{
+    color: #656464;
+    font-weight: 400;
+}
+.Enunciado{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 30vw;
+    text-align: center;
+}
+#Texto1{
+    color: #217BF4;
+    font-weight: 500;
+}
+.Enunciado h2{
+    color: #0A093D;
+    font-weight: 700;
+    margin-bottom:.4rem;
+}
+#Texto2{
+    color: #656464;
+    font-weight: 400;
+}
