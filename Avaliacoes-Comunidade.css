@@ -107,6 +107,7 @@
     justify-content: center;
     align-items: center;
     margin-right: 4rem;
+    margin-bottom: 4.5rem;
     width: 25rem;
     height: 20rem;
 }
@@ -144,7 +145,7 @@
 .Enunciado h2{
     color: #0A093D;
     font-weight: 700;
-    margin-bottom:.4rem;
+    margin-bottom:.8rem;
 }
 #Texto2{
     color: #656464;
