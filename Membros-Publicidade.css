@@ -1,0 +1,216 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.h3{
+    color: #217BF4;
+    font-family: 'inter', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 10px;
+    display: flex;
+    margin-top: 8rem;
+    
+}
+.h1{
+    color: #0A093D;
+    font-family: 'inter', sans-serif;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 52px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    text-align: left;
+}
+.p{
+    color:#656464;
+    font-family: 'inter', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 0.5rem;
+    text-align: left;
+}
+.logos{
+    margin-left: 2.6rem;
+}
+
+.textu{
+    display: block;
+    height: 10rem;
+}
+
+.celular img{
+    width: 30rem;
+    height: 33rem;
+    display: flex;
+    align-items: center;
+    margin-left: 8rem;
+}
+
+.textos{
+    margin-left: 4rem;
+    margin-top: 7rem;
+    display: block;
+    justify-content: center;
+    text-align: left;
+
+}
+.center{
+    display: flex;
+    justify-content: space-around;
+    background: #E5F0FD;
+}
+#playstore{
+    width: 143.39px;
+    height: 52px;
+    margin-bottom: 20px;
+}
+#apple{
+    width: 190px;
+    height: 93px;
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.textos{
+    text-align: center;
+    margin-top: 2.31rem;
+}
+.valuable{
+    color: #217BF4;
+    font-family: 'inter', sans-serif;
+    font-size: 18px;
+    line-height: 10px;
+}
+.V-team{
+    font-weight: 500;
+}
+.members{
+    color: #0A093D;
+    font-family: 'inter', sans-serif;
+    font-size: 16px;
+    line-height: 52px;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+.our{
+    font-weight: 700;
+}
+.when{
+    color: #656464;
+    font-family: 'inter', sans-serif;
+    font-size: 16px;
+    line-height: 26px;  
+}
+.p-when{
+    font-weight: 400;
+}
+.fundo-botao{
+    display: flex;
+    justify-content: center;
+    margin: 1rem;
+    height: 72px;
+    align-items: center;
+    background-color: #217BF4;
+}
+.pessoas{
+    display: flex;
+    justify-content: center ;
+}
+.botao{
+    padding: 2rem;
+    
+    border-radius: 14px;  
+}
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.textos{
+    text-align: center;
+    margin-top: 2.31rem;
+}
+.valuable{
+    color: #217BF4;
+    font-family: 'inter', sans-serif;
+    font-size: 18px;
+    line-height: 10px;
+}
+.V-team{
+    font-weight: 500;
+}
+.members{
+    color: #0A093D;
+    font-family: 'inter', sans-serif;
+    font-size: 16px;
+    line-height: 52px;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+.our{
+    font-weight: 700;
+}
+.when{
+    color: #656464;
+    font-family: 'inter', sans-serif;
+    font-size: 16px;
+    line-height: 26px;  
+}
+.p-when{
+    font-weight: 400;
+}
+.fundo-botao{
+    display: flex;
+    justify-content: center;
+    margin: 1rem;
+    height: 4.5rem;
+    align-items: center;
+    text-align: center;
+    background-color: #217BF4;
+    
+    
+}
+.pessoas{
+    display: flex;
+    justify-content: center ;
+}
+.botao{
+    color: #2F2C4A;
+    font-family: 'inter', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0.01em;
+    text-align: center;
+
+    
+    
+}
+.nome-foto{
+    display: flex;
+    justify-content: space-around;
+    color: #2F2C4A;
+    font-family: 'inter', sans-serif;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+.nome-tag{
+    display: flex;
+    justify-content: space-around;
+    color: #656464;
+    font-family: 'inter', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    margin-bottom: 8rem;
+    
+
+}
+.pessoas{
+    justify-content: space-around;
+}
